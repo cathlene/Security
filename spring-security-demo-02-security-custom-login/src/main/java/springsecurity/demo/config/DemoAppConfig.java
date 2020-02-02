@@ -14,7 +14,7 @@ public class DemoAppConfig {
 	// is zpals we tervoor deden in xml maar nu in java in spring-mvc-crud-demo-servlet.xml
 	@Bean
 	public ViewResolver viewResolver() {
-		// rama develop
+		//test2
 		
 		InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
 		viewResolver.setPrefix("/WEB-INF/view/");
